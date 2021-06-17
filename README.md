@@ -24,4 +24,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-https://github-readme-stats.vercel.app/api/top-langs/?username={%EC%82%AC%EC%9A%A9%EC%9E%90%EB%AA%85}&langs_count=8
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
